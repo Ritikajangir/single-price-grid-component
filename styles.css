@@ -1,0 +1,64 @@
+body{
+  background-color: #e5eff5;
+  font-family: "kamla",sans-serif;
+
+}
+
+.start-heading{
+  color: 	 #2ab2af;
+  padding-bottom: 10px;
+}
+
+.row{
+  padding: 10% 20%;
+}
+
+.start{
+  background-color: white;
+  padding: 40px 50px;
+}
+
+.h3-start{
+  color: 	 #c0df34;
+}
+
+.p-start{
+  color: #98a6bd;
+}
+
+.pr-price{
+  display: flex;
+}
+
+.per-month{
+  padding: 13px 0 0 10px;
+}
+
+.row-1{
+  background-color: #2ab2af;
+  padding: 40px 50px;
+  color: white;
+}
+
+
+.row-2{
+  background-color: #30cfcc;
+  padding: 40px 50px;
+  color: white;
+
+}
+
+.r2{
+  padding-left: 27px;
+  padding-bottom: 10px;
+}
+
+ul{
+    font-size: 16px;
+    line-height: normal;
+}
+
+.btn{
+  background-color: #c0df34;
+  color: white;
+}
